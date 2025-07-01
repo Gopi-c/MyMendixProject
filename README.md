@@ -1,6 +1,8 @@
 # MyMendixProject
-Certified Mendix Advanced Developer with strong skills in low-code application development, API integration, and process automation. Passionately upskilling in Mendix workflows, native mobile, and advanced integrations.
-//👋 About Me
+Certified Mendix Advanced Developer with strong skills in low-code application development, API integration, and process automation. Passionately upskilling in Mendix workflows, native mobile, and advanced integrations. 
+
+
+👋 About Me
 I am a Mendix Developer with Mendix Advanced Certification and a strong focus on building scalable, efficient low-code applications. Passionate about mastering the Mendix ecosystem and continuously expanding my technical skill set.
 
 📜 Certifications
